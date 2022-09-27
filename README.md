@@ -1,8 +1,10 @@
 ### Olá! Eu sou a Juliana Castro
 
-
-- 🔭 Apaixonada por tecnologia
-- 🌱 Formada em Gestão de Tecnologia de Informação 
+- Apaixonada por tecnologia
+- Formada em Gestão de Tecnologia de Informação 
+- Pós em andamento Segurança de Sistemas 
+- Hoje trabalho com Font-end
+- Estudando ReactJS 
 
 
 <div align="center">
