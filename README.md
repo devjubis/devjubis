@@ -1,9 +1,9 @@
 ### Olá! Eu sou a Juliana Castro
 
+- Desenvolvedora Front-end
 - Apaixonada por tecnologia
 - Formada em Gestão de Tecnologia de Informação 
 - Especialista em Segurança de Sistemas 
-- Trabalahndo com Front-end
 - Estudando React.JS 
 
 
