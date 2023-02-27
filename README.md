@@ -4,7 +4,7 @@
 - Apaixonada por tecnologia
 - Formada em Gestão de Tecnologia de Informação 
 - Especialista em Segurança de Sistemas 
-- Estudando React.JS 
+- Foco em React 
 
 
 <div>
