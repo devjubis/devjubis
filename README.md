@@ -2,9 +2,9 @@
 
 - Apaixonada por tecnologia
 - Formada em Gestão de Tecnologia de Informação 
-- Pós em andamento Segurança de Sistemas 
-- Hoje trabalho com Font-end
-- Estudando ReactJS 
+- Especialista em Segurança de Sistemas 
+- Trabalahndo com Front-end
+- Estudando React.JS 
 
 
 <div>
