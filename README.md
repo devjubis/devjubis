@@ -2,10 +2,7 @@
 
 - Desenvolvedora Front-end
 - Apaixonada por tecnologia
-- Formada em Gestão de Tecnologia de Informação 
-- Especialista em Segurança de Sistemas 
-- Foco em React 
-
+- Foco em React
 
 <div>
   <a href="https://github.com/devjubis">
