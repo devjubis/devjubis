@@ -1,10 +1,11 @@
 ### Olá, mundo! Eu sou a Juliana Castro
-
 👋 Uma entusiasta da tecnologia, apaixonada pelo Senhor dos Anéis e viciada em jogos de RPG.
 
 💻 Com ampla experiência na área de programação e um verdadeiro fascínio pelo desenvolvimento web, sou uma mestre na arte das linguagens de programação. Minha paixão pela tecnologia me motiva a explorar o vasto universo do Front-End, onde eu crio interfaces mágicas e encantadoras usando as habilidades que domino: React, JavaScript, HTML5 e CSS3.
 
-⚔️ No entanto, minha expertise não se limita apenas ao Front-End. Como uma aventureira destemida, também me aventuro no mundo do Backend. Possuo profundo conhecimento em tecnologias como Node.js e PHP, e sou habilidosa no uso do Laravel. Navegar pelos intricados caminhos dos bancos de dados Mysql e NoSQL é uma habilidade que possuo, transformando dados em tesouros valiosos.
+📱 Além disso, possuo experiência em desenvolvimento de aplicativos móveis utilizando React Native. Com expertise nessa tecnologia, sou capaz de criar soluções intuitivas e eficientes para plataformas móveis, proporcionando uma experiência excepcional aos usuários.
+
+⚔️ No entanto, minha expertise não se limita apenas ao Front-End. Como uma aventureira destemida, também me aventuro no mundo do Backend. Possuo profundo conhecimento em tecnologias como PHP e Java, e sou habilidosa no uso do Laravel. Navegar pelos intricados caminhos dos bancos de dados Mysql, SQL e NoSQL(Firebase) é uma habilidade que possuo, transformando dados em tesouros valiosos.
 
 🌟 Minha missão é unir minha paixão pela tecnologia com a criatividade e imaginação dos mundos fantásticos encontrados em livros e jogos. Estou sempre em busca de desafios emocionantes e projetos que me permitam trazer um toque de magia para a experiência do usuário.
 
