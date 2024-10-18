@@ -1,17 +1,14 @@
-### Olá, mundo! Eu sou a Juliana Castro
-👋 Uma entusiasta da tecnologia, apaixonada pelo Senhor dos Anéis e viciada em jogos de RPG.
+### 👋 Olá! Sou Juliana, apaixonada por tecnologia, Senhor dos Anéis e RPG.
 
-💻 Com ampla experiência na área de programação e um verdadeiro fascínio pelo desenvolvimento web, sou uma mestre na arte das linguagens de programação. Minha paixão pela tecnologia me motiva a explorar o vasto universo do Front-End, onde eu crio interfaces mágicas e encantadoras usando as habilidades que domino: React, JavaScript, HTML5 e CSS3.
+💻 Com experiência em programação e desenvolvimento web, crio interfaces encantadoras usando React, JavaScript, HTML5 e CSS3. Também desenvolvo aplicativos móveis com React Native e faço freelancers, focando em soluções intuitivas.
 
-📱 Além disso, possuo experiência em desenvolvimento de aplicativos móveis utilizando React Native. Com expertise nessa tecnologia, sou capaz de criar soluções intuitivas e eficientes para plataformas móveis, proporcionando uma experiência excepcional aos usuários.
+⚔️ Além do Front-End, tenho conhecimentos em Backend com PHP e Laravel, e sou habilidosa em bancos de dados MySQL, SQL e NoSQL (Firebase).
 
-⚔️ No entanto, minha expertise não se limita apenas ao Front-End. Como uma aventureira destemida, também me aventuro no mundo do Backend. Possuo profundo conhecimento em tecnologias como PHP e Java, e sou habilidosa no uso do Laravel. Navegar pelos intricados caminhos dos bancos de dados Mysql, SQL e NoSQL(Firebase) é uma habilidade que possuo, transformando dados em tesouros valiosos.
+🌟 Busco unir minha paixão por tecnologia e criatividade, sempre em busca de novos desafios. Tenho experiência com Git, integrações de APIs e metodologias ágeis como SCRUM e Kanban.
 
-🌟 Minha missão é unir minha paixão pela tecnologia com a criatividade e imaginação dos mundos fantásticos encontrados em livros e jogos. Estou sempre em busca de desafios emocionantes e projetos que me permitam trazer um toque de magia para a experiência do usuário.
+📚 Nos momentos livres, estou imersa em mundos fantásticos ou em uma jornada de RPG. Vamos criar algo extraordinário juntos?
 
-🔧 Tenho experiência com Git, integrações com API's e metodologias ágeis, como SCRUM e Kanban. Valorizo boas práticas de desenvolvimento e estou sempre buscando aprender e aprimorar minhas habilidades.
-
-📚 Quando não estou imersa em códigos e projetos, você pode me encontrar perdida nas terras de Tolkien ou liderando uma jornada épica em um jogo de RPG. Estou sempre pronta para unir forças com uma equipe de heróis talentosos e criar algo extraordinário.
+✉️ Entre em contato pelo LinkedIn https://www.linkedin.com/in/julianacastrosilva/ ou e-mail castro.ju837@gmail.com 
 
 <div>
   <a href="https://github.com/devjubis">
