@@ -1,27 +1,28 @@
-### 👋 Olá! Sou Juliana, apaixonada por tecnologia, Senhor dos Anéis e RPG.
+### 👋 Olá! Sou Juliana, desenvolvedora Full Stack apaixonada por tecnologia, Senhor dos Anéis e RPG.
 
-💻 Com ampla experiência em programação e desenvolvimento web, crio interfaces encantadoras usando React, TypeScript, JavaScript, HTML5 e CSS3. Também desenvolvo aplicativos móveis com React Native e aplicativos nativos para Android usando Java e Kotlin, aplicando arquiteturas MVC e MVVM.
+💻 Como desenvolvedora Júnior, tenho experiência em criação e desenvolvimento de soluções web e mobile. No front-end, utilizo React, TypeScript, JavaScript, HTML5 e CSS3 para criar interfaces modernas e responsivas. Também desenvolvo aplicativos móveis com React Native.
 
-⚔️  No universo Back-End, tenho sólidos conhecimentos em PHP com Laravel, além de trabalhar com APIs RESTful e bancos de dados como MySQL, SQL e NoSQL (Firebase).
+⚔️  No universo Back-End, destaco meus conhecimentos em PHP com Laravel, onde crio e mantenho APIs RESTful e sistemas escaláveis. Trabalho com bancos de dados como MySQL, PostgreSQL, SQL e NoSQL (Firebase). Utilizo Docker para criar e gerenciar ambientes de desenvolvimento, além de ferramentas como Insomnia para testar APIs e Bootstrap para estilização e layouts otimizados.
 
-🌟 Sou movida pela paixão em unir tecnologia e criatividade, buscando constantemente novos desafios. Tenho experiência em controle de versão com Git, integrações de APIs e metodologias ágeis como SCRUM e Kanban.
+🌟 Sou movida pela paixão por aprender e enfrentar novos desafios, sempre unindo tecnologia e criatividade. Tenho experiência em controle de versão com Git, integrações de APIs e metodologias ágeis como SCRUM e Kanban.
 
-📚 Nos momentos livres, estou imersa em mundos fantásticos ou em uma jornada de RPG. Vamos criar algo extraordinário juntos?
+📚 Nos momentos livres, adoro explorar mundos fantásticos e participar de aventuras de RPG. Vamos construir algo incrível juntos?
 
 ✉️ Entre em contato pelo LinkedIn https://www.linkedin.com/in/julianacastrosilva/ ou e-mail castro.ju837@gmail.com 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-👋 Hi! I’m Juliana, a technology enthusiast, Lord of the Rings fan, and RPG adventurer.
-💻 With extensive experience in programming and web development, I create captivating interfaces using React, TypeScript, JavaScript, HTML5, and CSS3. I also develop mobile applications with React Native and native Android apps using Java and Kotlin, leveraging MVC and MVVM architectures.
+👋 Hello! I'm Juliana, a Full Stack Developer passionate about technology, The Lord of the Rings, and RPG.
 
-⚔️ On the Back-End, I have solid expertise in PHP with Laravel, working with RESTful APIs and databases such as MySQL, SQL, and NoSQL (Firebase).
+💻 As a Junior Developer, I have experience in creating and developing web and mobile solutions. On the front-end, I use React, TypeScript, JavaScript, HTML5, and CSS3 to build modern and responsive interfaces. I also develop mobile applications with React Native.
 
-🌟 Passionate about combining technology and creativity, I’m always looking for new challenges. I have experience with Git, API integrations, and agile methodologies like SCRUM and Kanban.
+⚔️ In the Back-End world, I highlight my knowledge in PHP with Laravel, where I create and maintain RESTful APIs and scalable systems. I work with databases such as MySQL, PostgreSQL, SQL, and NoSQL (Firebase). I use Docker to create and manage development environments, as well as tools like Insomnia for API testing and Bootstrap for styling and optimized layouts.
 
-📚 In my free time, I dive into fantastic worlds or embark on epic RPG journeys. Let’s create something extraordinary together!
+🌟 I'm driven by my passion for learning and tackling new challenges, always combining technology and creativity. I have experience with Git version control, API integrations, and agile methodologies like SCRUM and Kanban.
 
-✉️ Feel free to reach out via LinkedIn or email castro.ju837@gmail.com.
+📚 In my free time, I love exploring fantastic worlds and embarking on RPG adventures. Let’s build something amazing together!
+
+✉️ Get in touch via LinkedIn https://www.linkedin.com/in/julianacastrosilva/ or email castro.ju837@gmail.com.
 
 <div>
   <a href="https://github.com/devjubis">
