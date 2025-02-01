@@ -6,7 +6,7 @@ Desenvolvedora com experiência em desenvolvimento web e mobile, utilizando tecn
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Junior Developer with experience in web and mobile development, utilizing modern technologies and programming best practices. Proficient in React Native, JavaScript, TypeScript, React, HTML5, CSS3, Redux, and developing RESTful services with Spring Boot. Skilled in working with SQL databases (MySQL, PostgreSQL) and NoSQL (Firebase for mobile projects). Experienced in Docker, AWS, and Agile methodologies such as SCRUM and Kanban. Competent in publishing apps to Google Play and App Store, version control with Git, and delivering scalable and integrated solutions.
+Developer with experience in web and mobile development, utilizing modern technologies and programming best practices. Proficient in React Native, JavaScript, TypeScript, React, HTML5, CSS3, Redux, and developing RESTful services with Spring Boot. Skilled in working with SQL databases (MySQL, PostgreSQL) and NoSQL (Firebase for mobile projects). Experienced in Docker, AWS, and Agile methodologies such as SCRUM and Kanban. Competent in publishing apps to Google Play and App Store, version control with Git, and delivering scalable and integrated solutions.
 
 ✉️ Get in touch via LinkedIn https://www.linkedin.com/in/julianacastrosilva/ or email castro.ju837@gmail.com.
 
