@@ -1,15 +1,30 @@
-### 👋 Olá! Sou Juliana, desenvolvedora Full Stack apaixonada por tecnologia. 
+### 👋 Olá! Sou Juliana, Desenvolvedora Web e Mobileapaixonada por tecnologia. 
 
-Desenvolvedora com experiência em desenvolvimento web e mobile, utilizando tecnologias modernas e boas práticas de programação. Conhecimentos em React Native, JavaScript, TypeScript, React, HTML5, CSS3, Redux e desenvolvimento de serviços RESTful com Spring Boot. Experiência em banco de dados SQL (MySQL, PostgreSQL) e NoSQL (Firebase, em projetos mobile). Habilidades em Docker, AWS e metodologias ágeis como SCRUM e Kanban. Proficiente na publicação de aplicativos em lojas (Google Play e App Store), versionamento de código com Git e desenvolvimento com foco em soluções escaláveis e integradas.
+Utilizando tecnologias modernas e boas práticas de programação. Experiência na integração do front-end com APIs e desenvolvimento de soluções escaláveis, seguindo metodologias ágeis como SCRUM e Kanban.
 
-✉️ Entre em contato pelo LinkedIn https://www.linkedin.com/in/julianacastrosilva/ ou e-mail castro.ju837@gmail.com 
+🛠 Tecnologias & Habilidades: 
+
+-> Mobile: React Native (Expo & CLI), Redux, Firebase (NoSQL), PostgreSQL, Publicação na Google Play e 
+ App Store
+-> Front-End: React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Sass, Tailwind CSS
+-> Back-End: NodeJS, Java, Spring Boot, SQL (MySQL, PostgreSQL), Docker, AWS
+-> Testes & QA: Jest (testes unitários), Playwright (automação)
+-> Ferramentas: Git, SCRUM, Kanban
+
+✉️ Entre em contato pelo LinkedIn ou e-mail castro.ju837@gmail.com 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Developer with experience in web and mobile development, utilizing modern technologies and programming best practices. Proficient in React Native, JavaScript, TypeScript, React, HTML5, CSS3, Redux, and developing RESTful services with Spring Boot. Skilled in working with SQL databases (MySQL, PostgreSQL) and NoSQL (Firebase for mobile projects). Experienced in Docker, AWS, and Agile methodologies such as SCRUM and Kanban. Competent in publishing apps to Google Play and App Store, version control with Git, and delivering scalable and integrated solutions.
+Web and Mobile Developer, using modern technologies and best programming practices. Experienced in front-end integration with APIs and scalable solution development, following agile methodologies such as SCRUM and Kanban.
 
-✉️ Get in touch via LinkedIn https://www.linkedin.com/in/julianacastrosilva/ or email castro.ju837@gmail.com.
+🛠 Technologies & Skills:
+-> Mobile: React Native (Expo & CLI), Redux, Firebase (NoSQL), PostgreSQL, Deployment on Google Play and App Store
+-> Front-End: React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Sass, Tailwind CSS
+-> Back-End: NodeJS, Java, Spring Boot, SQL (MySQL, PostgreSQL), Docker, AWS
+-> Testing & QA: Jest (unit testing), Playwright (automation)
+-> Tools: Git, SCRUM, Kanban
 
+✉️ Get in touch via LinkedIn or email castro.ju837@gmail.com.
 <div>
   <a href="https://github.com/devjubis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjubis&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
