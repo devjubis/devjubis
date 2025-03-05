@@ -15,16 +15,6 @@ Utilizando tecnologias modernas e boas práticas de programação. Experiência 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Web and Mobile Developer, using modern technologies and best programming practices. Experienced in front-end integration with APIs and scalable solution development, following agile methodologies such as SCRUM and Kanban.
-
-🛠 Technologies & Skills:
--> Mobile: React Native (Expo & CLI), Redux, Firebase (NoSQL), PostgreSQL, Deployment on Google Play and App Store
--> Front-End: React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Sass, Tailwind CSS
--> Back-End: NodeJS, Java, Spring Boot, SQL (MySQL, PostgreSQL), Docker, AWS
--> Testing & QA: Jest (unit testing), Playwright (automation)
--> Tools: Git, SCRUM, Kanban
-
-✉️ Get in touch via LinkedIn or email castro.ju837@gmail.com.
 <div>
   <a href="https://github.com/devjubis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjubis&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
