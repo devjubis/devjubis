@@ -1,4 +1,4 @@
-### 👋 Olá! Sou Juliana, Desenvolvedora Web e Mobileapaixonada por tecnologia. 
+### 👋 Olá! Sou Juliana, Desenvolvedora Web e Mobile apaixonada por tecnologia. 
 
 Utilizando tecnologias modernas e boas práticas de programação. Experiência na integração do front-end com APIs e desenvolvimento de soluções escaláveis, seguindo metodologias ágeis como SCRUM e Kanban.
 
