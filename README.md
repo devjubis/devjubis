@@ -1,15 +1,5 @@
-### 👋 Olá! Sou Juliana, Desenvolvedora Web e Mobile apaixonada por tecnologia. 
-
-Utilizando tecnologias modernas e boas práticas de programação. Experiência na integração do front-end com APIs e desenvolvimento de soluções escaláveis, seguindo metodologias ágeis como SCRUM e Kanban.
-
-🛠 Tecnologias & Habilidades: 
-
--> Mobile: React Native (Expo & CLI), Redux, Firebase (NoSQL), PostgreSQL, Publicação na Google Play e 
- App Store
--> Front-End: React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Sass, Tailwind CSS
--> Back-End: NodeJS, Java, Spring Boot, SQL (MySQL, PostgreSQL), Docker, AWS
--> Testes & QA: Jest (testes unitários), Playwright (automação)
--> Ferramentas: Git, SCRUM, Kanban
+### Desenvolvedora Full Stack com experiência em desenvolvimento de aplicações web e APIs RESTful, utilizando PHP, Laravel, Java, Spring Boot, Angular, React, JavaScript e TypeScript. Experiência em bancos
+de dados SQL (MySQL, PostgreSQL) e NoSQL (Firebase). Conhecimentos em Docker, AWS e metodologias ágeis (SCRUM e Kanban). Apaixonada por tecnologia e desenvolvimento de soluções escaláveis.
 
 ✉️ Entre em contato pelo LinkedIn ou e-mail castro.ju837@gmail.com 
 
