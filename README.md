@@ -2,6 +2,7 @@
 
 Desenvolvedora Full Stack com experiência em desenvolvimento de aplicações web e APIs RESTful, utilizando PHP, Laravel, Node, Angular, React, Next, JavaScript e TypeScript. Experiência em bancos de dados SQL (MySQL, PostgreSQL) e NoSQL (Firebase). 
 Habilidades em Docker, AWS e metodologias ágeis (SCRUM e Kanban). Noções em UI/UX, Figma. Apaixonada por tecnologia e desenvolvimento de soluções escaláveis.
+
 ✉️ Entre em contato pelo LinkedIn: https://www.linkedin.com/in/julianacastrosilva/ ou E-mail: castro.ju837@gmail.com 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
