@@ -1,7 +1,11 @@
 ### Olá, meu nome é Juliana
 
-Desenvolvedora Full Stack em desenvolvimento de aplicações web e APIs RESTful, utilizando PHP, Laravel, React, JavaScript. Experiência em bancos de dados SQL (MySQL, PostgreSQL) e NoSQL (Firebase). 
-Conhecimentos em metodologias ágeis (SCRUM e Kanban). Noções em UI/UX, Figma. Apaixonada por tecnologia e desenvolvimento de soluções escaláveis.
+Desenvolvedora Full Stack com experiência em desenvolvimento de aplicações
+web e APIs RESTful, utilizando PHP, Laravel, Node, Bootstrap, React, Next,
+JavaScript e TypeScript. Experiência em bancos de dados SQL (MySQL,
+PostgreSQL) e NoSQL (Firebase). Conhecimentos em Docker, AWS e metodologias
+ágeis (SCRUM e Kanban), Noções em UI/UX, Figma e WebFlow. Apaixonada por
+tecnologia e desenvolvimento de soluções escaláveis.
 
 ✉️ Entre em contato pelo E-mail: castro.ju837@gmail.com 
 
