@@ -6,6 +6,7 @@ Busco uma oportunidade de estágio para aplicar e aprimorar meus conhecimentos e
 contribuindo com soluções inovadoras e aprendizado contínuo.
 
 ✉️ Entre em contato pelo E-mail: castro.ju837@gmail.com 
+✉️ Entre em contato pelo Whatsapp: (11) 9 3457-2984
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
