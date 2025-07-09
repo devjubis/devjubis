@@ -1,6 +1,6 @@
 ### Olá, meu nome é Juliana
 
-Estudante e desenvolvedora com conhecimentos em desenvolvimento web. Possuo conhecimentos em Java, PHP, Laravel,
+Estudante com conhecimentos em desenvolvimento web. Possuo conhecimentos em Java, PHP, Laravel,
 JavaScript e bancos de dados SQL (MySQL), além de integração de APIs.
 Busco uma oportunidade de estágio para aplicar e aprimorar meus conhecimentos em um ambiente profissional,
 contribuindo com soluções inovadoras e aprendizado contínuo.
