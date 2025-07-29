@@ -1,9 +1,7 @@
 ### Olá, meu nome é Juliana
 
-Estudante com conhecimentos em desenvolvimento web. Possuo conhecimentos em Java, PHP, Laravel,
-JavaScript, React e bancos de dados SQL (MySQL), além de integração de APIs.
-Busco uma oportunidade de estágio para aplicar e aprimorar meus conhecimentos em um ambiente profissional,
-contribuindo com soluções inovadoras e aprendizado contínuo.
+Desenvolvedora Full Stack com experiência em desenvolvimento de aplicações web e APIs RESTful, utilizando PHP, Laravel, Node, Bootstrap, React, Next, JavaScript e TypeScript. Experiência em bancos de dados SQL (MySQL, PostgreSQL) e NoSQL (Firebase).
+Conhecimentos em Docker, AWS e metodologias ágeis (SCRUM e Kanban), Noções em UI/UX, Figma e WebFlow. Apaixonada por tecnologia e desenvolvimento de soluções escaláveis.
 
 ✉️ Entre em contato pelo E-mail: castro.ju837@gmail.com 
 ✉️ Entre em contato pelo Whatsapp: (11) 9 3457-2984
