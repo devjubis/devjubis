@@ -1,10 +1,17 @@
-### Olá, meu nome é Juliana
+# Olá! Eu sou a Juliana 👋  
+Desenvolvedora Full Stack com foco em aplicações web e mobile, apaixonada por tecnologia e soluções escaláveis.
 
-Desenvolvedora Full Stack com experiência em desenvolvimento de aplicações web e APIs RESTful, utilizando PHP, Laravel, Node, Bootstrap, React, Next, JavaScript e TypeScript. Experiência em bancos de dados SQL (MySQL, PostgreSQL) e NoSQL (Firebase).
-Conhecimentos em Docker, AWS e metodologias ágeis (SCRUM e Kanban), Noções em UI/UX, Figma e WebFlow. Apaixonada por tecnologia e desenvolvimento de soluções escaláveis.
+Tenho experiência prática no desenvolvimento de APIs RESTful e aplicações modernas utilizando **Node.js**, **React**, **Next.js**, **React Native**, **PHP** e **Laravel**. Também atuo com bancos de dados **SQL (MySQL, PostgreSQL)** e **NoSQL (Firebase)**, aplicando boas práticas de segurança, testes automatizados e performance.
 
-✉️ Entre em contato pelo E-mail: castro.ju837@gmail.com 
-✉️ Entre em contato pelo Whatsapp: (11) 9 3457-2984
+Além do backend e frontend, tenho conhecimentos em **Docker**, **CI/CD**, **AWS**, versionamento com **Git**, e colaboração em times ágeis (**Scrum/Kanban**). Gosto de contribuir com projetos que impactam pessoas e busco constantemente evolução técnica.
+
+---
+
+📫 **Entre em contato:**  
+✉️ E-mail: [castro.ju837@gmail.com](mailto:castro.ju837@gmail.com)  
+💬 WhatsApp: (11) 9 3457-2984  
+🔗 [LinkedIn](https://www.linkedin.com/in/julianacastrosilva/) | 💻 [Meu Portfólio](https://github.com/devjubis)
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
