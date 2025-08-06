@@ -1,7 +1,7 @@
 # Olá! Eu sou a Juliana 👋  
 Desenvolvedora Full Stack com foco em aplicações web e mobile, apaixonada por tecnologia e soluções escaláveis.
 
-Tenho experiência prática no desenvolvimento de APIs RESTful e aplicações modernas utilizando **Node.js**, **React**, **Next.js**, **React Native**, **PHP** e **Laravel**. Também atuo com bancos de dados **SQL (MySQL, PostgreSQL)** e **NoSQL (Firebase)**, aplicando boas práticas de segurança, testes automatizados e performance.
+Tenho experiência prática no desenvolvimento de APIs RESTful e aplicações modernas utilizando **Node.js**, **React**, **Next.js**, **React Native**, **Bootstrap**, **PHP** e **Laravel**. Também atuo com bancos de dados **SQL (MySQL, PostgreSQL)** e **NoSQL (Firebase)**, aplicando boas práticas de segurança, testes automatizados e performance.
 
 Além do backend e frontend, tenho conhecimentos em **Docker**, **CI/CD**, **AWS**, versionamento com **Git**, e colaboração em times ágeis (**Scrum/Kanban**). Gosto de contribuir com projetos que impactam pessoas e busco constantemente evolução técnica.
 
@@ -30,6 +30,7 @@ Além do backend e frontend, tenho conhecimentos em **Docker**, **CI/CD**, **AWS
     <img align="center" alt="Jubis-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="Jubis-PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
      <img align="center" alt="Jubis-Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg">
+     <img align="center" alt="Jubis-Bootstrap" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg">
     <img align="center" alt="Jubis-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
     <img align="center" alt="Jubis-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
     <img align="center" alt="Jubis-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
