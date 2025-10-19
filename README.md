@@ -1,4 +1,5 @@
-# Olá! Eu sou a Juliana 👋  
+# Olá! Eu sou a Juliana 👋 
+
 Sou estudante e Analista de Suporte de TI em transição para a área de Desenvolvimento de Software. Possuo conhecimentos em Java, JavaScript, Git,
 banco de dados MySQL. Busco uma oportunidade de estágio em desenvolvimento para aplicar e aprimorar meus conhecimentos em um ambiente
 colaborativo, contribuindo com soluções de qualidade, melhoria contínua e aprendizado constante.
@@ -7,7 +8,7 @@ colaborativo, contribuindo com soluções de qualidade, melhoria contínua e apr
 📫 **Entre em contato:**  
 ✉️ E-mail: [castro.ju837@gmail.com](mailto:castro.ju837@gmail.com)  
 💬 WhatsApp: (11) 9 3457-2984  
-🔗 [LinkedIn](https://www.linkedin.com/in/julianacastrosilva/) | 💻 [Meu Portfólio](https://github.com/devjubis)
+💻 [Meu Portfólio](https://github.com/devjubis)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
