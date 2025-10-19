@@ -5,8 +5,8 @@ banco de dados MySQL. Busco uma oportunidade de estágio em desenvolvimento para
 colaborativo, contribuindo com soluções de qualidade, melhoria contínua e aprendizado constante.
 ---
 
-📫 **Entre em contato:**  
-✉️ E-mail: [castro.ju837@gmail.com](mailto:castro.ju837@gmail.com)  
+**Entre em contato:**  
+📫E-mail: [castro.ju837@gmail.com](mailto:castro.ju837@gmail.com)  
 💬 WhatsApp: (11) 9 3457-2984  
 💻 [Meu Portfólio](https://github.com/devjubis)
 
