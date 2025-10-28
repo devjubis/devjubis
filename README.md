@@ -1,8 +1,6 @@
 # Olá! Eu sou a Juliana 👋 
 
-Sou estudante e Analista de Suporte de TI em transição para a área de Desenvolvimento de Software. Possuo conhecimentos em Java, JavaScript, Git,
-banco de dados MySQL. Busco uma oportunidade de estágio em desenvolvimento para aplicar e aprimorar meus conhecimentos em um ambiente
-colaborativo, contribuindo com soluções de qualidade, melhoria contínua e aprendizado constante.
+Sou estudante e Analista de Suporte de TI em transição para a área de Desenvolvimento de Software. Possuo conhecimentos em Java, Python, JavaScript, Git, banco de dados MySQL. Busco uma oportunidade de estágio em desenvolvimento para aplicar e aprimorar meus conhecimentos em um ambiente colaborativo, contribuindo com soluções de qualidade, melhoria contínua e aprendizado constante.
 ---
 
 **Entre em contato:**  
