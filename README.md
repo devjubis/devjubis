@@ -20,8 +20,6 @@ Desenvolvedora Full Stack com experiência na criação de aplicações Web e Mo
 
   
   <div style="display: inline_block"><br>  
-    <img align="center" alt="Jubis-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-    <img align="center" alt="Jubis-Laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg">
     <img align="center" alt="Jubis-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="Jubis-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Jubis-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg">
