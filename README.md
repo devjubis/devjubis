@@ -1,6 +1,7 @@
 # Olá! Eu sou a Juliana 👋 
 
-Sou estudante e Analista de Suporte de TI em transição para a área de Desenvolvimento de Software. Possuo conhecimentos em Java, Python, JavaScript, Git, banco de dados MySQL. Busco uma oportunidade de estágio em desenvolvimento para aplicar e aprimorar meus conhecimentos em um ambiente colaborativo, contribuindo com soluções de qualidade, melhoria contínua e aprendizado constante.
+Desenvolvedora Full Stack com experiência na criação de aplicações Web e Mobile utilizando linguagens React Native, React, Next.JS, Node. Atuação em projetos escaláveis com integração de APIs RESTful, arquitetura orientada a serviços, testes automatizados e manipulação de dados com SQL (MySQL, PostgreSQL) e NoSQL (Firebase). Experiência em ambientes com Docker, CI/CD, AWS, e metodologias ágeis (Scrum/Kanban). Entregas com foco em performance, segurança e experiência do usuário.
+
 ---
 
 **Entre em contato:**  
