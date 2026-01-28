@@ -1,4 +1,4 @@
-### 👋 Hello there, my name is Juliana Castro
+# 👋 Hello there, my name is Juliana Castro
 
 👩‍💻 Software Engineering.<br>
 👷‍♂️ I'm currently working with: `Node | Express | Insomnia | Postman | SQL (Postgresql) | Next.JS | React | TypeScript | Material UI | UX | Figma`<br>
