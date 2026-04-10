@@ -1,6 +1,6 @@
 # 👋 Hello there, my name is Juliana Castro
 
-👩‍💻 Software Engineering.<br>
+👩‍💻 FullStack Software Engineering.<br>
 👷‍♂️ I'm currently working with: `Node | Express | Insomnia | Postman | SQL (Postgresql) | Next.JS | React | TypeScript | Git Flow | Material UI | UX | Figma`<br>
 👨‍🎓 Systems Analysis and Development.<br>
 🎨 Experience with Back End Development and Front End Development.<br>
