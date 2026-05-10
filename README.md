@@ -1,7 +1,7 @@
 # 👋 Hello there, my name is Juliana Castro
 
 👩‍💻 FullStack Software Engineering.<br>
-👷‍♂️ I'm currently working with: `Node | Express | Insomnia | Postman | SQL (Postgresql) | Next.JS | React | TypeScript | Git Flow | Material UI | UX | Figma`<br>
+👷‍♂️ I'm currently working with: `Java | Spring Boot | JUnit | GCP | AWS | API RESTful  | Node.JS | Nest.JS | Express | Swagger | Insomnia | Postman | SQL (Postgresql/MySQL) | Next.JS | React.JS | TypeScript/JavaScript | Git Flow | Material UI | UX | Figma | Kubernetes | Docker | CI/CD`<br>
 👨‍🎓 Systems Analysis and Development.<br>
 🎨 Experience with Back End Development and Front End Development.<br>
 🎮 Mobile Dev as Hobbie.<br>
@@ -9,7 +9,7 @@
 ---
 
 ### Entre em contato:
-📫 E-mail: [castro.ju837@gmail.com](mailto:castro.ju837@gmail.com)  
+📫 E-mail: [castro.ju837@gmail.com](castro.ju837@gmail.com)  
 💬 LinkedIn: (https://www.linkedin.com/in/julianacastrosilva/)  
 💻 [Meu Portfólio](https://github.com/devjubis)
 
