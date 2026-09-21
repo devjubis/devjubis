@@ -2,7 +2,6 @@
 
 👩‍💻 FullStack Software Engineering.<br>
 👷‍♂️ I'm currently working with: ` React | Next.JS | TypeScript/JavaScript | Java | Node.JS | Nest.JS | Spring Boot | Express | Swagger (OpenAPI) | JUnit | Jest | Vitest | GCP | API RESTful | SQL (Postgresql/MySQL) | Insomnia | Postman | Git Flow | Material UI | UX | Figma | Kubernetes | Docker | CI/CD`<br>
-👨‍🎓 Systems Analysis and Development.<br>
 🎨 Experience with Back End Development and Front End Development.<br>
 🎮 Mobile Dev as Hobbie.<br>
 
